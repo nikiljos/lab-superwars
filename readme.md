@@ -1,4 +1,5 @@
 # Lab | Superwars Stage 2
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.nikjos.in/open?repo=nikiljos/lab-superwars)
 
 Remember Superwars stage 1? However, here is a quick recap of things.
 
